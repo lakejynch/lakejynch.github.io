@@ -8,10 +8,8 @@ When I do, if I'm able to share it, I'll try my best to update this site and it 
 
 Here are some cool projects I've worked on:
 
-```markdown
 1. [Onchain Transaction Mapping](onchain_txn_map.html)
 
-```
 
 
 ### Social
