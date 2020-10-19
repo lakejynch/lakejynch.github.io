@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Jake Lynch's Personal Site
 
-You can use the [editor on GitHub](https://github.com/lakejynch/lakejynch.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I've worked in capital markets with a focus on digital assets for a couple of years.
+From time to time, I'll discover something interesting that I'd like to share.
+When I do, if I'm able to share it, I'll try my best to update this site and it in the section below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links and Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some cool projects I've worked on:
 
 ```markdown
-Syntax highlighted code block
+1. [Onchain Transaction Mapping](onchain_txn_map.html)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lakejynch/lakejynch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Social
+[Twitter](https://twitter.com/jake_crypto)
+[LinkedIn](https://www.linkedin.com/in/jake-lynch/)
