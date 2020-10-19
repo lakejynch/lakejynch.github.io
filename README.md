@@ -13,5 +13,6 @@ Here are some cool projects I've worked on:
 
 
 ### Social
-[Twitter](https://twitter.com/jake_crypto)
-[LinkedIn](https://www.linkedin.com/in/jake-lynch/)
+Follow me on [Twitter](https://twitter.com/jake_crypto)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jake-lynch/)
