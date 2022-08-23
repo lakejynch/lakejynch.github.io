@@ -9,6 +9,7 @@ When I do, if I'm able to share it, I'll try my best to update this site and it 
 Here are some cool projects I've worked on:
 
 1. [Onchain Transaction Mapping](onchain_txn_map.html)
+2. [Crypto Sector Mapping](sector_mapping.html)
 
 
 
